@@ -2,7 +2,7 @@
 
 Creates a png grid video of Kasane Teto Spinning 
 
-This project comes from my previous project with [badapple](). But is slightly modified to handle teto and also carries the Python Implementation as the main part since it is easier to run and for this project it only has to process one iteration of the spin and FFMPEG is responsible for processing the rest.
+This project comes from my previous project with [badapple](https://github.com/Ikekano/bad-apple). But is slightly modified to handle teto and also carries the Python Implementation as the main part since it is easier to run and for this project it only has to process one iteration of the spin and FFMPEG is responsible for processing the rest.
 
 This project requires installing OpenCV and ffmpeg. Can be used in a windows environment but linux is preferred. I use WSL with Ubuntu and it works just fine.
 
